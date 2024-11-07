@@ -13,4 +13,4 @@
 ## Meaning
 ![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Synonymous/blob/164eadc37e4300f36ad626bb94bb4e14583352af/Meaning.PNG)  
 ## Summery
-![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Synonymous/blob/164eadc37e4300f36ad626bb94bb4e14583352af/Meaning.PNG)  
+![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Synonymous/blob/cf94d04cd6d6239ab19cd1d33faf1d42cc28122b/summery.PNG)  
