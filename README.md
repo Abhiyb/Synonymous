@@ -10,5 +10,5 @@
 
 ![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Chrome-extention/blob/main/crome%20extentin%20design.PNG)  
 
-### Screenshot
+## Meaning
 ![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Synonymous/blob/164eadc37e4300f36ad626bb94bb4e14583352af/Meaning.PNG)  
