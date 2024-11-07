@@ -11,3 +11,4 @@
 ![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Chrome-extention/blob/main/crome%20extentin%20design.PNG)  
 
 ### Screenshot
+![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Chrome-extention/blob/main/crome%20extentin%20design.PNG)  
