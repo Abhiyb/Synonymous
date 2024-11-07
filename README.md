@@ -14,3 +14,8 @@
 ![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Synonymous/blob/164eadc37e4300f36ad626bb94bb4e14583352af/Meaning.PNG)  
 ## Summery
 ![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Synonymous/blob/cf94d04cd6d6239ab19cd1d33faf1d42cc28122b/summery.PNG)  
+## Pronounce
+![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Synonymous/blob/3bb91c011c468b68dc85da5580ad7ef74f0d3fbb/pronounce.PNG) 
+## Translate
+![Screenshot of Synonymous Extension]() 
+
