@@ -17,5 +17,5 @@
 ## Pronounce
 ![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Synonymous/blob/3bb91c011c468b68dc85da5580ad7ef74f0d3fbb/pronounce.PNG) 
 ## Translate
-![Screenshot of Synonymous Extension]() 
+![Screenshot of Synonymous Extension](https://github.com/Abhiyb/Synonymous/blob/8665cb7871217e1ffd8b751f13653a3d39423dd1/translate.PNG) 
 
